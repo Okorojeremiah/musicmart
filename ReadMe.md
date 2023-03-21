@@ -1,4 +1,4 @@
-# Travelway
+# Musicmart
 
 This project implements a waitlist using Java SpringBoot.
 
@@ -24,7 +24,7 @@ This project implements a waitlist using Java SpringBoot.
 
 # API Endpoints
 This project includes the following REST API endpoints:
-POST: Adds a new customer details to the waitlist.
+POST: Adds a new User details to the waitlist.
 
 # Configuration
 
